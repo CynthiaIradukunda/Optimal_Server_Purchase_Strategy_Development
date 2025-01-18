@@ -38,8 +38,7 @@ To solve this problem, company executive Mr. Gofero proposes installing an inter
 - Server allocation for increasing employee needs per month.
 
 ## Results
-### Approach A: Minimize Monthly Costs:
-
+### Approach A: Monthly Costs Minimization
 | Month | Server Purchased | Cost |
 | ----- | ---------------- | ---- |
 | 2 | 2 Standard PCs | $5,000 |
@@ -50,8 +49,7 @@ To solve this problem, company executive Mr. Gofero proposes installing an inter
 
 Key Insight: Focused on immediate needs, leading to higher overall costs.
 
-### Approach B: Minimize Total Costs:
-
+### Approach B: Total Costs Minimization
 | Month | Server Purchased | Cost |
 | ----- | ---------------- | ---- |
 | 1 | 1 | SGI Workstation | $10,000
@@ -63,15 +61,13 @@ Key Insight: Focused on immediate needs, leading to higher overall costs.
 
 Key Insight: Strategic early purchases optimized costs through discounts.
 
-### Comparison Table:
-
+### Approach Comparison
 | Approach | Total Cost | Key Purchases | Discounts Utilized |
 | ----- | ------------- | ------------- | ------------------ |
 | A | $20,000 | Multiple small servers monthly | Limited |
 | B | $19,000 | Early larger servers | Fully leveraged |
 
-## Recommendation
-
-For long-term cost savings and early discounts utilization, I recommend the company to opt for the second Approach (Approach B). Doing this will also help it account for operational costs, training, and potential future growth during implementation.
+## Recommendation *(Which Approach Should The Company Go For and Why?)*
+For long-term cost savings and early discounts utilization, I recommend the company to opt for ... *(drumrolls)* ... the second Approach (Approach B). Doing this will also help it account for operational costs, training, and potential future growth during implementation.
 
 
